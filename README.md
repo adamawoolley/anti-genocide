@@ -1,4 +1,4 @@
-<b> anti-genocide </b>
+<title> anti-genocide </title>
 
 A game about committing genocide to stop the genocide of your peoples
 
