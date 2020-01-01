@@ -41,12 +41,12 @@ Now we are preparing to go to war and have devised military simulations of incre
 - track time
 - create production
 - move ships
-## U1I
+## U<sub>1</sub>I
 - Start Server/Game
 - Box Select
 - Destination
 ### Data communication
-## UnI
+## U<sub>n</sub>I
 - Select Server/Game
 - Box Select
 - Destination
